@@ -1,0 +1,9 @@
+{
+  "name": "RATONAUT",
+  "description": "Advanced telemetry for hamsters and small rodents. Monitor wheel speed, paw cadence, and biomechanics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
