@@ -1,6 +1,6 @@
 # RATONAUT 🐹🚀
 
-**RATONAUT** (anteriormente StepFlow) é um sistema de telemetria avançada e monitoramento de saúde focado em pequenos roedores (hamsters, gerbils, ratos). O aplicativo simula e monitora métricas de corrida em roda, estabilidade biomecânica e oferece um assistente virtual inteligente para cuidados com o pet.
+**RATONAUT** é um sistema de telemetria avançada e monitoramento de saúde focado em pequenos roedores (hamsters, gerbils, ratos). O aplicativo simula e monitora métricas de corrida em roda, estabilidade biomecânica e oferece um assistente virtual inteligente para cuidados com o pet.
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Desenvolvimento-green)
 ![Tech](https://img.shields.io/badge/Tech-React_%7C_TypeScript_%7C_Gemini_AI-blue)

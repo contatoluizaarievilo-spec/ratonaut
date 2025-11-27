@@ -1,8 +1,20 @@
 {
-  "name": "ratonaut",
-  "private": true,
+  "name": "yes",
   "version": "0.0.0",
+  "private": true,
+  "description": "**RATONAUT** (anteriormente StepFlow) é um sistema de telemetria avançada e monitoramento de saúde focado em pequenos roedores (hamsters, gerbils, ratos). O aplicativo simula e monitora métricas de corrida em roda, estabilidade biomecânica e oferece um assistente virtual inteligente para cuidados com o pet.",
+  "homepage": "https://github.com/contatoluizaarievilo-spec/ratonaut#readme",
+  "bugs": {
+    "url": "https://github.com/contatoluizaarievilo-spec/ratonaut/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contatoluizaarievilo-spec/ratonaut.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
